@@ -1,0 +1,10 @@
+name: clusterone
+channels:
+  - deepchem
+  - rdkit
+  - conda-forge
+  - omnia
+  - defaults
+dependencies:
+  - python=3.5
+  - deepchem=2.1.0
