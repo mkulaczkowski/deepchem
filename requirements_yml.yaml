@@ -1,5 +1,6 @@
 name: clusterone
 channels:
+  - pandas
   - deepchem
   - rdkit
   - conda-forge
