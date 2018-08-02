@@ -9,3 +9,5 @@ channels:
 dependencies:
   - python=3.5
   - deepchem=2.1.0
+
+from deepchem.examples.membrane_permeability import membrane_permeability_datasets
